@@ -4,7 +4,7 @@ author: "ISYS2001: Introduction to Business Programming"
 format: pdf
 ---
 
-# 📝 Final Programming Project
+# 📝 Final Programming Project 
 
 **Assignment Title:** Smart Finance Assistant  
 **Due Date:** Week 13 (Friday 17 October 2025, 11:59pm AWST)  
