@@ -1,3 +1,7 @@
+Offical Developer's Diary:
+This file shows individual entries of AI collaboration throughout the project development. 
+
+Each entry is structured to contain:
 ### Entry [Number] – [Descriptive Title]
 **Artifact:** [Screenshot/code snippet/GIF of AI interaction]
 
